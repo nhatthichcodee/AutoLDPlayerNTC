@@ -5,6 +5,8 @@ Release Bao Gồm
 - Emgu.CV.World.dll
 - LDController.dll
 
+Viết bởi Nhật Thích Codee https://www.facebook.com/nhat.canh.1998/
+
 
 # List Command
 0. Set Path LDPlayer "ldconsole.exe"
